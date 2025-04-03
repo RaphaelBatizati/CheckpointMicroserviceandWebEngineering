@@ -35,3 +35,7 @@ A aplicação está organizada nos seguintes pacotes:
 
 Acessar:
 http://localhost:8080/swagger-ui/index.html
+
+## Clone do repositório
+execute no cmd:
+git clone https://github.com/RaphaelBatizati/CheckpointMicroserviceandWebEngineering.git
